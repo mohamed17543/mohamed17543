@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:ff8c00&height=200&section=header&text=Hello%20Coders!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohamed%20Mahmoud&descAlignY=58&descSize=22" width="100%" alt="Hello Coders" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Mahmoud+%F0%9F%91%8B;C%2B%2B+%7C+Python+Developer;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+building%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Mahmoud+%F0%9F%91%8B;I'm+learning+AI+%26+ML+%F0%9F%A4%96;Turning+data+into+insights+%F0%9F%93%8A;Always+building%2C+always+learning" alt="Typing SVG" />
 
 <br>
 
@@ -19,6 +19,13 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9AC4?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ```cpp
 // about_me.cpp
@@ -27,12 +34,25 @@ class Me : public Developer {
 public:
     string name = "Mohamed Mahmoud";
     vector<string> languages = {"C++", "Python"};
+    vector<string> dataStack = {"NumPy", "Pandas", "Matplotlib", "Seaborn", "scikit-learn"};
+
     string currentlyLearning = "AI & Machine Learning";
 };
 ```
 
-- 🤖 &nbsp; I'm currently learning **AI & Machine Learning**.
-- 💻 &nbsp; I code in **C++** and **Python**.
+## 🧠 What I work with
+
+| Area | What I use |
+|------|-----------|
+| **Languages** | C++ (OOP, data structures & algorithms), Python |
+| **Data analysis** | NumPy, Pandas, data cleaning & preprocessing (missing values, outliers, encoding, scaling) |
+| **Visualization** | Matplotlib, Seaborn |
+| **Machine learning** | scikit-learn: KNN, SVM, Linear Regression, Decision Trees, Random Forest, Ensemble methods, model evaluation (precision/recall, ROC/AUC, GridSearchCV) |
+
+## 🌱 Currently
+
+- 🤖 &nbsp; Learning **AI & Machine Learning** and building hands-on notebooks on real datasets.
+- 💻 &nbsp; Sharpening my **C++** and **Python** skills.
 - 💬 &nbsp; Ask me about **programming, AI, or anything**.
 - 📫 &nbsp; Reach me on **LinkedIn**, **Email**, or **Telegram** (links above).
 
