@@ -6,7 +6,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamed17543&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/mohamed17543.svg?style=flat&label=Profile%20Views&color=ff8c00&labelColor=555555)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-545816386/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mshnb4739@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MohamedMahmoud42)
@@ -35,7 +35,8 @@ public:
     string name = "Mohamed Mahmoud";
     vector<string> languages = {"C++", "Python"};
     vector<string> dataStack = {"NumPy", "Pandas", "Matplotlib", "Seaborn", "scikit-learn"};
-
+    vector<string> mlTopics  = {"KNN", "SVM", "Linear Regression",
+                                "Decision Trees", "Random Forest", "Ensemble Learning"};
     string currentlyLearning = "AI & Machine Learning";
 };
 ```
